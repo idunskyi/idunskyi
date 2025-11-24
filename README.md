@@ -1,4 +1,4 @@
-# Ivan Dunskyi | AI Solutions Architect | LLMs, RAG, Multi-Agent Systems
+# Ivan Dunskyi | Generative AI Engineer | LLMs, RAG, Multi-Agent Systems
 
 I deliver robust AI solutions that bring business value.
 
@@ -22,8 +22,8 @@ Over the past 10 years, I've delivered **60+ IT & AI systems** to businesses acr
 ## How I Work
 
 - **Strategic assessment first** — I analyze your current strategy and operations and identify high-impact opportunities where AI solutions can make a difference
-- **Design solution** — Based on combination of factors such as ROI, technical complexity and adoption challenges we select the most effective solutions.
-- **Transparent development** — As I develop the solution, I make regular demos and progress reports every 1-2 weeks keep you informed and aligned
+- **Design solution** — Based on a combination of factors such as ROI, technical complexity, and adoption challenges, we select the most effective solutions.
+- **Transparent development** — As I develop the solution, I make regular demos and progress reports every 1-2 weeks to keep you informed and aligned
 - **Production-ready AI** — Deploy LLMs (OpenAI, Claude, Gemini, Mistral, Llama) on infrastructure built for scale and reliability
 - **Measure what matters** — I design clear metrics and evaluation frameworks to track AI performance and business impact
 - **Seamless integration** — Connect AI systems with your existing tech stack without disrupting operations
