@@ -21,11 +21,11 @@ Over the past 10 years, I've delivered **60+ IT & AI systems** to businesses acr
 
 ## How I Work
 
-- **Strategic assessment first** — Analyze your current state and identify high-impact opportunities in strategy, processes, and product positioning
-- **Transparent development** — Regular demos and progress reports every 1-2 weeks keep you informed and aligned
+- **Strategic assessment first** — I analyze your current strategy and operations and identify high-impact opportunities where AI solutions can make a difference
+- **Design solution** — Based on combination of factors such as ROI, technical complexity and adoption challenges we select the most effective solutions.
+- **Transparent development** — As I develop the solution, I make regular demos and progress reports every 1-2 weeks keep you informed and aligned
 - **Production-ready AI** — Deploy LLMs (OpenAI, Claude, Gemini, Mistral, Llama) on infrastructure built for scale and reliability
-- **Data that works for you** — Secure, compliant pipelines that turn messy business data into actionable insights
-- **Measure what matters** — Clear metrics and evaluation frameworks to track AI performance and business impact
+- **Measure what matters** — I design clear metrics and evaluation frameworks to track AI performance and business impact
 - **Seamless integration** — Connect AI systems with your existing tech stack without disrupting operations
 
 ## What Clients Say
@@ -46,4 +46,4 @@ Over the past 10 years, I've delivered **60+ IT & AI systems** to businesses acr
 
 If you're looking to go beyond demos and deploy AI that **saves time**, **increases efficiency**, and **generates revenue** — let's connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/idunskyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ivan-dunskiy/)
